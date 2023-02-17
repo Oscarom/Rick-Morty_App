@@ -1,0 +1,14 @@
+.barra{
+   display: flex;
+   justify-content: center;
+}
+.input{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    border: 1px solid gray; 
+    width: 200px;
+    padding: 15px; 
+    border-radius:  10px;
+}
